@@ -1,1 +1,1 @@
-# academy-java
+# academyjava
